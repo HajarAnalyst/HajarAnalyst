@@ -1,4 +1,4 @@
-👋 Hi, I’m @HajarAnalyst, or you can call me HajarStillBecomingAnalyst 😅
+👋 Hi, I’m @HajarAnalyst,
 - 👀 I’m passionate about learning more about the data analyst role, with the goal of transitioning into data science.
 - 🌱 I’m currently learning programming languages like Python, SQL, and PL/SQL, as well as DAX in Power BI. I love turning raw data into valuable insights, and I know there's still so much to learn!
 - 💞️ I’m looking for an internship to sharpen my skills and move closer to becoming a skilled data analyst, and eventually a data scientist.
